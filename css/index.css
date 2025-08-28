@@ -1,4 +1,31 @@
 body {
-  font-family: Gill Sans, sans-serif;
+  font-family: sans-serif;
+  background-color: #a09d95;
   text-align: center;
+}
+
+.animal-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+  padding: 20px;
+}
+
+.animal-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: fit-content;
+}
+
+.animal-image {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.link {
+  color: #5e4e40;
+  text-decoration: none;
+  font-weight: bold;
 }
