@@ -8,6 +8,7 @@ This repository is the code for Assignment 1 - Zoo.
 
 ---
 
-###
+### Tech Stack
 
----
+- HTML
+- CSS
